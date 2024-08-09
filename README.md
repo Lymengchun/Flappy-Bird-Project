@@ -1,5 +1,4 @@
-![](https://github.com/Lymengchun/Public-Image/blob/5341642d736a69ebfcf51b6007d7f1e5099b75e2/flappybird1.PNG  width="100")
-![](https://github.com/Lymengchun/Public-Image/blob/5341642d736a69ebfcf51b6007d7f1e5099b75e2/flappybird1.PNG | width=100)
+![](https://github.com/Lymengchun/Public-Image/blob/5341642d736a69ebfcf51b6007d7f1e5099b75e2/flappybird1.PNG=100)
 ![](https://github.com/Lymengchun/Public-Image/blob/5341642d736a69ebfcf51b6007d7f1e5099b75e2/flappybird2.png  width = 100)
 ![](https://github.com/Lymengchun/Public-Image/blob/5341642d736a69ebfcf51b6007d7f1e5099b75e2/flappybird3%20.png  width = 100)
 ### Hi there 👋
