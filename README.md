@@ -4,7 +4,7 @@
 <img src="https://github.com/Lymengchun/Public-Image/blob/5341642d736a69ebfcf51b6007d7f1e5099b75e2/flappybird3%20.png" width="300" height="auto">
 ### Link to Play Game
 
-[!["Flappy Bird Kh"](https://media.giphy.com/media/rvUbaxVpe87qErZ6yE/giphy.gif)]
+[!["Flappy Bird Kh"](https://media.giphy.com/media/rvUbaxVpe87qErZ6yE/giphy.gif)](https://lymengchun.github.io/Flappy-Bird-Kh/)
 <!-- **Lymengchun/Lymengchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
